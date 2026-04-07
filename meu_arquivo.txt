@@ -1,1 +1,3 @@
 Este é meu arquivo novo
+
+Adicionei mais uma linha nova aqui nesse arquivo.
