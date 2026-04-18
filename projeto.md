@@ -9,12 +9,12 @@ Tratamento e análise de dados com Pandas
     - Outras fontes de interesse. 
 2. Descrever os dados (nulos, valores distintos, tipos de variáveis...);
 3. Fazer o tratamento de qualidade dos dados (Remover nulos, remover valores constantes, ...)
-4. Levantar 10 perguntas sobre o dataset e responder utilizado filtragens, agrupamentos e transformações no Pandas.
+4. Levantar 5 perguntas sobre o dataset e responder utilizado filtragens, agrupamentos e transformações no Pandas.
 
 Entrega: 
 
 - Repositório do github (Envie o link do repositório);
 - Pelo menos 3 commits no github ;
 - No repositório deve conter o dataset e o arquivo .ipynb;
-- Entrega até o dia 03/04 no LMS;
+- Entrega até o dia 26/04 no LMS;
 - 
